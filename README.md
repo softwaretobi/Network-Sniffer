@@ -20,6 +20,13 @@ Un analyseur de paquets réseau écrit en Python pour surveiller le trafic sur u
   - Tentatives d'injection SQL
 - 📊 Génération de rapports et alertes en cas de comportements suspects.
 
+## ⭐ Prochainement 
+- (MitM) - Add
+- (Distributed Denial of Service) - Mitigation Basique
+- DNS Spoofing - Add
+- (RCE)
+
+
 ## 📦 Installation
 
 Pour installer le module, exécutez la commande suivante dans votre terminal :
