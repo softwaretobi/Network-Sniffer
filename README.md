@@ -32,10 +32,10 @@ Un analyseur de paquets réseau écrit en Python pour surveiller le trafic sur u
 Pour installer le module, exécutez la commande suivante dans votre terminal :
 
 ```bash
-pip install git+https://github.com/votre_utilisateur/network_sniffer.git
+pip install git+https://github.com/softwaretobi/Network-Sniffer.git
 ```
 
-Remplacez `votre_utilisateur` par votre nom d'utilisateur GitHub.
+
 
 ## 🛠️ Utilisation
 
