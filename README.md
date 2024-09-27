@@ -87,7 +87,7 @@ if __name__ == "__main__":
 Pour exécuter le script, ouvrez votre terminal et exécutez la commande suivante :
 
 ```bash
-python script_exemple.py
+python test.py
 ```
 
 ### ⚠️ Remarque
@@ -95,7 +95,7 @@ python script_exemple.py
 Pour exécuter le sniffer, vous devrez probablement le faire avec des privilèges d'administrateur. Utilisez `sudo` sur Linux/MacOS :
 
 ```bash
-sudo python script_exemple.py
+sudo python test.py
 ```
 
 ## 🤝 Contribuer
